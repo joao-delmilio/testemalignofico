@@ -1,0 +1,14 @@
+.expo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+    gap: 20px;
+    transition: 2s;
+}
+
+.expo img{
+    width: 200px;
+    height: 200px;
+}
